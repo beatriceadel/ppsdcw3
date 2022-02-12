@@ -1,7 +1,11 @@
 # Coding Workshop 2.0 #3 Machine Learning w/ Python
 
 Untuk workshop ini, kita akan menggunakan Google Colab. 
-Petunjuk tentang cara menggunakan Google Colab dapat dibaca di notebook [ini](https://colab.research.google.com/notebooks/welcome.ipynb?hl=id)
+Petunjuk tentang cara menggunakan Google Colab dapat dibaca di notebook [ini](https://colab.research.google.com/notebooks/welcome.ipynb?hl=id).
+
+Klik tombol **Open in Colab** di bawah ini untuk mengakses notebook workshop ini.
+- Dengan Jawaban: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/beatriceadel/ppsdcw3/blob/main/codingws3_ml_ans.ipynb)
+- Tanpa Jawaban: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/beatriceadel/ppsdcw3/blob/main/codingws3_ml.ipynb)
 
 ## Table of Contents
 
